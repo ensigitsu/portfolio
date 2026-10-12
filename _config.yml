@@ -4,12 +4,8 @@ title: "Justin Coulpied"
 description: "Étudiant en BTS SIO, 1re année. Mes réalisations professionnelles, au fil de la formation."
 email: "justin.coulpied@ensitech.eu"
 linkedin: "www.linkedin.com/in/justin-coulpied"
-<h2>Profil</h2>
-<p>Au cours de ma formation, j’ai eu l’opportunité d’effectuer six mois de stage au sein de services informatiques, où j’ai développé mes compétences en installation de baies informatiques, en montage de PC et en gestion du câblage (*cable management*).
 
-Mon objectif professionnel est de devenir **administrateur systèmes et réseaux**, un métier essentiel au bon fonctionnement et à la sécurité des infrastructures informatiques d’une entreprise.
-
-Passionné par l’informatique, je souhaite continuer à développer mes compétences et à rester informé des nouvelles technologies grâce à une veille technologique régulière.</p>
+lang: fr
 
 # Chaque fichier déposé dans le dossier _projets devient une page du site.
 collections:
