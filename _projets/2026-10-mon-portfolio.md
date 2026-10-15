@@ -1,6 +1,6 @@
 ---
 title: "Mise en ligne de mon portfolio professionnel"
-date: 2026-10-07
+date: 2026-10-15
 cadre: "Atelier de professionnalisation"
 resume: "Création et publication d'un site personnel gratuit, hébergé sur GitHub Pages, qui présente mes réalisations."
 competences: [c3, c6]
@@ -24,10 +24,12 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 
 ## Productions et preuves
 
-- L'adresse publique du site.
-- Le dépôt et son historique des modifications.
-- Le score d'accessibilité relevé.
+- https://justin-coulpied.github.io/portfolio/#projets
+- page-d'acceuil.png [capture de l'accueil]
+- accessibility.png [contrôles W3C]
+- nu-html-cheker.png [lighthouse]
 
 ## Ce que j'en retiens
 
-Remplacez cette phrase par une difficulté rencontrée et la façon dont vous l'avez réglée.
+La lecture du dossier technique a été compliqué parce qu’il y avait beaucoup trop d’information qui ont était compacté dans un petit espace.
+J’ai dû relire plusieurs fois le dossier en revenant sur chaque étape pour essayer de retrouver celles qui sont liées les unes aux autres.
